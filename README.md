@@ -15,7 +15,7 @@
 --
 [![勇者：守人](https://img.youtube.com/vi/PaXhmbcu2f0/maxresdefault.jpg)](https://www.youtube.com/watch?v=PaXhmbcu2f0)
 
-*画像をクリックするとリンクに接続されます。<br>
+*画像をクリックするとリンクに繋がります。<br>
 
 *エラーが生じた場合、以下のリンク先でお願い致します。<br>
 https://youtu.be/PaXhmbcu2f0
