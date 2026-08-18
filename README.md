@@ -14,9 +14,16 @@
 ゲーム再生URL
 --
 [![勇者：守人](https://img.youtube.com/vi/PaXhmbcu2f0/maxresdefault.jpg)](https://www.youtube.com/watch?v=PaXhmbcu2f0)
-
-*画像をクリックするとリンクに繋がります。<br>
-
-*エラーが生じた場合、以下のリンク先でお願い致します。<br>
 https://youtu.be/PaXhmbcu2f0
+<br>
+<br>
+画像およびリンクをクリックすることで、動画に接続できます。
+
+ビルドデータ▣Unity6000.0.37f1
+--
+<div style="display: flex; align-items: center; gap: 8px;">
+  <a href="https://drive.google.com/drive/folders/1k9E4aIGWopSRa49F9BFz199RgcUA4wwB?usp=drive_link" target="_blank" title="구글 드라이브 폴더로 이동" style="display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/OneDrive_Folder_Icon.svg" width="32" height="32" style="display: block;">
+  </a>
+
 
